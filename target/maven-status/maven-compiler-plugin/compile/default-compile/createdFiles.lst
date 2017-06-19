@@ -1,0 +1,8 @@
+com\elin4it\ssm\mapper\UserMapper.class
+com\elin4it\ssm\pojo\UserExample$Criterion.class
+com\elin4it\ssm\pojo\UserExample$GeneratedCriteria.class
+com\elin4it\ssm\controller\UserController.class
+com\elin4it\ssm\pojo\UserExample.class
+com\elin4it\ssm\service\UserService.class
+com\elin4it\ssm\pojo\UserExample$Criteria.class
+com\elin4it\ssm\pojo\User.class
