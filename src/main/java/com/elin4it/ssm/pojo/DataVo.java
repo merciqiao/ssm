@@ -1,7 +1,27 @@
 package com.elin4it.ssm.pojo;
 
-/**
- * Created by MMM on 2017/06/22.
- */
+import java.math.BigDecimal;
+
 public class DataVo {
+
+
+    private BigDecimal[] nums;
+    private String id;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public BigDecimal[] getNums() {
+        return nums;
+    }
+
+    public void setNums(BigDecimal[] nums) {
+        this.nums = nums;
+    }
+
 }
